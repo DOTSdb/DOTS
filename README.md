@@ -1,3 +1,3 @@
 # DOTS
 
-Gneral Data Hub
+A CRM built for storing and analyzing student outcomes
