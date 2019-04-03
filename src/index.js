@@ -3,10 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import MyInfo from "./MyInfo.js";
+//import MyInfo from "./MyInfo.js";
 
 
-ReactDOM.render(<MyInfo />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
 
 
 //ReactDOM.render(<App />, document.getElementById('root'));
