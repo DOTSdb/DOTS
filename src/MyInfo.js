@@ -11,6 +11,19 @@ function MyInfo() {
                 <li>2</li>
                 <li>3</li>
             </ul>
+
+            
+            <input type="checkbox" />
+            <p>Placeholder Text</p>
+
+            <input type="checkbox" />
+            <p>Placeholder Text</p>
+
+            <input type="checkbox" />
+            <p>Placeholder Text</p>
+
+            <input type="checkbox" />
+            <p>Placeholder Text</p>
         </div>
     )
 }
